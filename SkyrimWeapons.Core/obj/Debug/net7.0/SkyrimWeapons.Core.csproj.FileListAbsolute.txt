@@ -1,0 +1,14 @@
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\bin\Debug\net7.0\SkyrimWeapons.Core.deps.json
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\bin\Debug\net7.0\SkyrimWeapons.Core.dll
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\bin\Debug\net7.0\SkyrimWeapons.Core.pdb
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.csproj.AssemblyReference.cache
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.AssemblyInfoInputs.cache
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.AssemblyInfo.cs
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.csproj.CoreCompileInputs.cache
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.dll
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\refint\SkyrimWeapons.Core.dll
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.pdb
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\ref\SkyrimWeapons.Core.dll
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\bin\Debug\net7.0\SkyrimWeapons.Core.runtimeconfig.json
+C:\Users\pallidpxnk\source\repos\SkyrimWeapons\SkyrimWeapons.Core\obj\Debug\net7.0\SkyrimWeapons.Core.genruntimeconfig.cache

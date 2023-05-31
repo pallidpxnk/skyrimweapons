@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A244E5C2-4780-4D98-B291-335957A2D59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyrimWeapons.Core", "SkyrimWeapons.Core\SkyrimWeapons.Core.csproj", "{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "parser", "parser", "{D03BA3E0-8EE1-49DB-BE1F-4C4DD339FC9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkyrimWeapons.ParserApp", "SkyrimWeapons.ParserApp\SkyrimWeapons.ParserApp.csproj", "{5381C72B-40EE-4F38-96E4-2E9FB494F554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponRepositories", "WeaponRepositories\WeaponRepositories.csproj", "{9C799FBA-8E13-4022-8F14-3B6F6D921321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapons.WinApp", "Weapons.WinApp\Weapons.WinApp.csproj", "{C8F8C2D2-C5DC-4060-993B-1CC26979D50C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5381C72B-40EE-4F38-96E4-2E9FB494F554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5381C72B-40EE-4F38-96E4-2E9FB494F554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5381C72B-40EE-4F38-96E4-2E9FB494F554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5381C72B-40EE-4F38-96E4-2E9FB494F554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C799FBA-8E13-4022-8F14-3B6F6D921321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C799FBA-8E13-4022-8F14-3B6F6D921321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C799FBA-8E13-4022-8F14-3B6F6D921321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C799FBA-8E13-4022-8F14-3B6F6D921321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F8C2D2-C5DC-4060-993B-1CC26979D50C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F8C2D2-C5DC-4060-993B-1CC26979D50C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F8C2D2-C5DC-4060-993B-1CC26979D50C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F8C2D2-C5DC-4060-993B-1CC26979D50C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{014DD1F2-8A4D-40A8-AB2F-CC84E87D4FED} = {A244E5C2-4780-4D98-B291-335957A2D59D}
+		{5381C72B-40EE-4F38-96E4-2E9FB494F554} = {D03BA3E0-8EE1-49DB-BE1F-4C4DD339FC9E}
+		{9C799FBA-8E13-4022-8F14-3B6F6D921321} = {A244E5C2-4780-4D98-B291-335957A2D59D}
+		{C8F8C2D2-C5DC-4060-993B-1CC26979D50C} = {A244E5C2-4780-4D98-B291-335957A2D59D}
+		{FFE7FDE4-D601-4F15-81C1-CF5D0DE15061} = {A244E5C2-4780-4D98-B291-335957A2D59D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CB06A4E-0B6D-4F06-AEA5-3DA751BA85D6}
+	EndGlobalSection
+EndGlobal
